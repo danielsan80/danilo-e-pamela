@@ -1,0 +1,11 @@
+{
+  "name": "Danilo e Pamela",
+  "short_name": "D&P",
+  "theme_color": "#FFFEEF",
+  "background_color": "#FFFEEF",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+  ]
+}
